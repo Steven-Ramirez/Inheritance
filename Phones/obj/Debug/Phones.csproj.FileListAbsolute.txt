@@ -1,0 +1,7 @@
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\obj\Debug\Phones.csproj.CoreCompileInputs.cache
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\bin\Debug\Phones.exe.config
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\bin\Debug\Phones.exe
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\bin\Debug\Phones.pdb
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\obj\Debug\Phones.exe
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\obj\Debug\Phones.pdb
+C:\Users\srami\Documents\GitHub\Inheritance\Phones\obj\Debug\Phones.csprojAssemblyReference.cache

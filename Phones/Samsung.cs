@@ -10,6 +10,7 @@ namespace Phones
         public bool hasStylus = true;
         public bool alwaysOnDisplay = true;
 
+
         public Samsung(string samsungName, int samsungSize)
         {
             this.Name = samsungName;

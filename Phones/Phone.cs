@@ -11,15 +11,11 @@ namespace Phones
         public int Size;
         public string Name;
 
-        public Phone()
-        {
-         
-        }
 
         public virtual string Display()
         {
             string s = "";
-            s += $"The {this.Name} is {this.Size}";
+            s += $"The {this.Name} is {this.Size} inches tall";
             return s;
         }
     }
